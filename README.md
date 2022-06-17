@@ -9,14 +9,14 @@
 ```python main_gpu_3.py```
 
 ## Datasets
-  * Dataset1
-  * Dataset2
-  * Dataset3
+  * Dataset1   LncRAN-PCG associations from the LncRNA2Target dataset
+  * Dataset2   LncRAN-PCG associations from the LncTarD dataset
+  * Dataset3   LncRAN-PCG associations from the NPInter dataset
 
 ## Results
- * 1    #Experimental results of Dataset1
- * 2    #Experimental results of Dataset2
- * 3    #Experimental results of Dataset3
+ * 1    Experimental results of Dataset1
+ * 2    Experimental results of Dataset2
+ * 3    Experimental results of Dataset3
 
 ## Requirements
   * Python 3.6.2
