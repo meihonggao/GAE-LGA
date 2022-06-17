@@ -1,4 +1,4 @@
-# GAE-LGA: Integration of multiomics data with graph autoencoder to identify lncRNA-PCG associations
+# GAE-LGA: Integration of multi-omics data with graph autoencoder to identify lncRNA-PCG associations
 
 ## Usage
 ```python main_cpu_1.py```
