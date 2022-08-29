@@ -8,15 +8,15 @@ Before using the GAE-LGA model, users first need to install the following enviro
   * scikit-learn 0.24.1
 
 ## Code
-main_cpu_1.py
-main_gpu_1.py
-main_cpu_2.py
-main_gpu_2.py
-main_cpu_3.py
-main_gpu_3.py
-model.py
-train.py
-utils.py
+  * main_cpu_1.py
+  * main_gpu_1.py
+  * main_cpu_2.py
+  * main_gpu_2.py
+  * main_cpu_3.py
+  * main_gpu_3.py
+  * model.py
+  * train.py
+  * utils.py
 
 ## Usage
 Here, we provide procedures for running the GAE-LGA model on three datasets
