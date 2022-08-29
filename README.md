@@ -4,11 +4,13 @@
 
 ### Run on Dataset1
 ```python main_cpu_1.py```
-```python main_cpu_2.py```
-```python main_cpu_3.py```
 ```python main_gpu_1.py```
+### Run on Dataset1
+```python main_cpu_2.py```
 ```python main_gpu_2.py```
+### Run on Dataset1
 ```python main_gpu_3.py```
+```python main_cpu_3.py```
 
 ## Datasets
   * Dataset1   #LncRAN-PCG associations from the LncRNA2Target dataset
