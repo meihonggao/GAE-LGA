@@ -1,5 +1,11 @@
 # GAE-LGA: Integration of multi-omics data with graph autoencoder to identify lncRNA-PCG associations
 
+## Requirements
+  * Python 3.6.2
+  * PyTrorch 1.9.1
+  * NumPy 1.19.2
+  * scikit-learn 0.24.1
+
 ## Usage
 
 ### Run on Dataset1
@@ -22,9 +28,5 @@
  * 2    #Experimental results of Dataset2
  * 3    #Experimental results of Dataset3
 
-## Requirements
-  * Python 3.6.2
-  * PyTrorch 1.9.1
-  * NumPy 1.19.2
-  * scikit-learn 0.24.1
+
 
