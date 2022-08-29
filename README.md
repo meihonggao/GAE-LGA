@@ -20,13 +20,13 @@ Before using the GAE-LGA model, users first need to install the following enviro
 
 ## Usage
 Here, we provide procedures for running the GAE-LGA model on three datasets
-### Run on Dataset1
+### Usage on LncRNA2Target dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_1.py```
   * If you are using GPU environment, please run the following python command：```python main_gpu_1.py```
-### Run on Dataset1
+### Usage on LncTarD dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_2.py```
   * If you are using GPU environment, please run the following python command：```python main_gpu_2.py```
-### Run on Dataset1
+### Usage on NPInter dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_3.py```
   * If you are using GPU environment, please run the following python command：```python main_gpu_3.py```
 
