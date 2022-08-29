@@ -7,17 +7,28 @@ Before using the GAE-LGA model, users first need to install the following enviro
   * NumPy 1.19.2
   * scikit-learn 0.24.1
 
-## Usage
+## Code
+main_cpu_1.py
+main_gpu_1.py
+main_cpu_2.py
+main_gpu_2.py
+main_cpu_3.py
+main_gpu_3.py
+model.py
+train.py
+utils.py
 
+## Usage
+Here, we provide procedures for running the GAE-LGA model on three datasets
 ### Run on Dataset1
-```python main_cpu_1.py```
-```python main_gpu_1.py```
+If you are using CPU environment, please run the following python command：```python main_cpu_1.py```
+If you are using GPU environment, please run the following python command：```python main_gpu_1.py```
 ### Run on Dataset1
-```python main_cpu_2.py```
-```python main_gpu_2.py```
+If you are using CPU environment, please run the following python command：```python main_cpu_2.py```
+If you are using GPU environment, please run the following python command：```python main_gpu_2.py```
 ### Run on Dataset1
-```python main_gpu_3.py```
-```python main_cpu_3.py```
+If you are using CPU environment, please run the following python command：```python main_cpu_3.py```
+If you are using GPU environment, please run the following python command：```python main_gpu_3.py```
 
 ## Datasets
   * Dataset1   #LncRAN-PCG associations from the LncRNA2Target dataset
