@@ -1,8 +1,8 @@
 # GAE-LGA: Integration of multi-omics data with graph autoencoder to identify lncRNA-PCG associations
 
 ## Requirements
-Before using the GAE-LGA model, you first need to install the following environment：
-* Python 3.6.2
+Before using the GAE-LGA model, users first need to install the following environment：
+  * Python 3.6.2
   * PyTrorch 1.9.1
   * NumPy 1.19.2
   * scikit-learn 0.24.1
