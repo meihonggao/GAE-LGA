@@ -106,4 +106,5 @@ This directory shows the output of the model
  >This directory is used to store the experimental results of the LncRNA2Target dataset.
  * 2    
  >This directory is used to store the experimental results of the LncTarD dataset
- * 3---This directory is used to store the experimental results of the NPInter dataset
+ * 3
+ >This directory is used to store the experimental results of the NPInter dataset
