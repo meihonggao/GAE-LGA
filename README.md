@@ -8,6 +8,7 @@ Before using GAE-LGA, users first need to install the following environments on 
   * scikit-learn 0.24.1
 
 ## Code
+This directory stores the python code of the model
   * main_cpu_1.py
   >It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncRNA2Target dataset (CPU environment)
   * main_gpu_1.py
@@ -46,6 +47,7 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
   > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset3 directory, and users can replace them with their own data.
 
 ## Datasets
+This directory stores the datasets used by the model
 ### Dataset1---LncRNA2Target dataset
   * feat_name.txt   
   >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
@@ -99,9 +101,7 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
   >Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Results
+This directory shows the output of the model
  * 1    This directory is used to store the experimental results of the LncRNA2Target dataset.
  * 2    This directory is used to store the experimental results of the LncTarD dataset
  * 3    This directory is used to store the experimental results of the NPInter dataset
-
-
-
