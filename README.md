@@ -105,11 +105,17 @@ This directory shows the output of the model
 ### 1: This directory is used to store the experimental results of the LncRNA2Target dataset.
   * train_rec_pre.txt 
   > Changes in recall and precision on the training set.
-  * train_perform.txt > Model performance on the training set
+  * train_perform.txt 
+  > Model performance on the training set
   * train_fpr_tpr.txt
+  > Changes in true positive rate and false positive rates on the training set.
   * test_rec_pre.txt
+  > Changes in recall and precision on the test set.
   * test_perform.txt
-  * test_new_assoc.txt
+  > Model performance on the training set
   * test_fpr_tpr.txt
+  > Changes in true positive and false positive rates on the test set.
+  * test_new_assoc.txt
+  >New lncRNA-PCG associations identified on the training set.
 ### 2: This directory is used to store the experimental results of the LncTarD dataset
 ### 3: This directory is used to store the experimental results of the NPInter dataset
