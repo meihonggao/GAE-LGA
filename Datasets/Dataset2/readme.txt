@@ -1,1 +1,0 @@
-LncTarD data: http://bio-bigdata.hrbmu.edu.cn/LncTarD/
