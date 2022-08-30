@@ -8,7 +8,8 @@ Before using the GAE-LGA model, users first need to install the following enviro
   * scikit-learn 0.24.1
 
 ## Code
-  * main_cpu_1.py-----It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncRNA2Target dataset CPU environment)
+  * main_cpu_1.py-----
+  >It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncRNA2Target dataset CPU environment)
   * main_gpu_1.py-----It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncRNA2Target dataset (GPU environment)
   * main_cpu_2.py-----It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncTarD dataset (CPU environment)
   * main_gpu_2.py-----It is used to compute the performance of the model for lncRNA-PCG association prediction on the LncTarD dataset (GPU environment)
