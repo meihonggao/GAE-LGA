@@ -40,22 +40,57 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
   * If you are using GPU environment, please run the following python command：```python main_gpu_3.py```
 
 ## Datasets
-### Dataset1 LncRAN-PCG associations f the LncRNA2Target dataset
+### Dataset1---LncRNA2Target dataset
   * feat_name.txt   
   >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
   * lnc_feat.csv
-  >Multi-omics features of lncRNA
+  >Multi-omics features of lncRNAs
   * lnc_name.txt
-  >The name of the lncRNA in lnc_feat.csv 
-  * lnc_pcg_net.csv
-  >LncRNA-PCG association from the LncRNA2Target dataset
+  >Names of lncRNAs in lnc_feat.csv
   * lnc_pcg_net.txt
-  >LncRNA-PCG association network
+  >LncRNA-PCG associations from the LncRNA2Target dataset
+  * lnc_pcg_net.csv
+  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
   * pcg_feat.csv
+  >Multi-omics features of  protein-coding genes
   * pcg_name.txt
+  >Names of protein-coding genes in pcg_feat.csv
   * process.R
-### Dataset2 LncRAN-PCG associations from the LncTarD dataset
-### Dataset3 LncRAN-PCG associations from the NPInter dataset
+  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
+### Dataset2---LncTarD dataset
+  * feat_name.txt   
+  >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
+  * lnc_feat.csv
+  >Multi-omics features of lncRNAs
+  * lnc_name.txt
+  >Names of lncRNAs in lnc_feat.csv
+  * lnc_pcg_net.txt
+  >LncRNA-PCG associations from the LncTarD dataset
+  * lnc_pcg_net.csv
+  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
+  * pcg_feat.csv
+  >Multi-omics features of  protein-coding genes
+  * pcg_name.txt
+  >Names of protein-coding genes in pcg_feat.csv
+  * process.R
+  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
+### Dataset3---NPInter dataset
+  * feat_name.txt   
+  >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
+  * lnc_feat.csv
+  >Multi-omics features of lncRNAs
+  * lnc_name.txt
+  >Names of lncRNAs in lnc_feat.csv
+  * lnc_pcg_net.txt
+  >LncRNA-PCG associations from the NPInter dataset
+  * lnc_pcg_net.csv
+  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
+  * pcg_feat.csv
+  >Multi-omics features of  protein-coding genes
+  * pcg_name.txt
+  >Names of protein-coding genes in pcg_feat.csv
+  * process.R
+  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Results
  * 1    #Experimental results of Dataset1
