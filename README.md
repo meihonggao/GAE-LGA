@@ -31,13 +31,19 @@ Before using GAE-LGA, users first need to install the following environments on 
 Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LGA/Code/ directory before using this model.
 ### Usage on LncRNA2Target dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_1.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset1 directory, and users can replace them with their own data.
   * If you are using GPU environment, please run the following python command：```python main_gpu_1.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset1 directory, and users can replace them with their own data.
 ### Usage on LncTarD dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_2.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset2 directory, and users can replace them with their own data.
   * If you are using GPU environment, please run the following python command：```python main_gpu_2.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset2 directory, and users can replace them with their own data.
 ### Usage on NPInter dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_3.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset3 directory, and users can replace them with their own data.
   * If you are using GPU environment, please run the following python command：```python main_gpu_3.py```
+  > Note: The input data includes lnc_feat.csv, pcg_feat.csv, and lncRNA_pcg_net.csv in the GAE/LGA/Datasets/Dataset3 directory, and users can replace them with their own data.
 
 ## Datasets
 ### Dataset1---LncRNA2Target dataset
