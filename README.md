@@ -48,63 +48,64 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
 
 ## Datasets
 This directory stores the datasets used by the model
-### Dataset1---LncRNA2Target dataset
+### Dataset1: LncRNA2Target dataset
   * feat_name.txt   
   >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
   * lnc_feat.csv
-  >Multi-omics features of lncRNAs
+  > Multi-omics features of lncRNAs
   * lnc_name.txt
-  >Names of lncRNAs in lnc_feat.csv
+  > Names of lncRNAs in lnc_feat.csv
   * lnc_pcg_net.txt
-  >LncRNA-PCG associations from the LncRNA2Target dataset
+  > LncRNA-PCG associations from the LncRNA2Target dataset
   * lnc_pcg_net.csv
-  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
+  > LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
   * pcg_feat.csv
-  >Multi-omics features of  protein-coding genes
+  > Multi-omics features of  protein-coding genes
   * pcg_name.txt
-  >Names of protein-coding genes in pcg_feat.csv
+  > Names of protein-coding genes in pcg_feat.csv
   * process.R
-  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
-### Dataset2---LncTarD dataset
+  > Process lnc_pcg_net.txt to lnc_pcg_net.csv
+### Dataset2: LncTarD dataset
+  * feat_name.txt   
+  > Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
+  * lnc_feat.csv
+  > Multi-omics features of lncRNAs
+  * lnc_name.txt
+  > Names of lncRNAs in lnc_feat.csv
+  * lnc_pcg_net.txt
+  > LncRNA-PCG associations from the LncTarD dataset
+  * lnc_pcg_net.csv
+  > LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
+  * pcg_feat.csv
+  > Multi-omics features of  protein-coding genes
+  * pcg_name.txt
+  > Names of protein-coding genes in pcg_feat.csv
+  * process.R
+  > Process lnc_pcg_net.txt to lnc_pcg_net.csv
+### Dataset3: NPInter dataset
   * feat_name.txt   
   >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
   * lnc_feat.csv
-  >Multi-omics features of lncRNAs
+  > Multi-omics features of lncRNAs
   * lnc_name.txt
-  >Names of lncRNAs in lnc_feat.csv
+  > Names of lncRNAs in lnc_feat.csv
   * lnc_pcg_net.txt
-  >LncRNA-PCG associations from the LncTarD dataset
+  > LncRNA-PCG associations from the NPInter dataset
   * lnc_pcg_net.csv
-  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
+  > LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
   * pcg_feat.csv
-  >Multi-omics features of  protein-coding genes
+  > Multi-omics features of  protein-coding genes
   * pcg_name.txt
-  >Names of protein-coding genes in pcg_feat.csv
+  > Names of protein-coding genes in pcg_feat.csv
   * process.R
-  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
-### Dataset3---NPInter dataset
-  * feat_name.txt   
-  >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
-  * lnc_feat.csv
-  >Multi-omics features of lncRNAs
-  * lnc_name.txt
-  >Names of lncRNAs in lnc_feat.csv
-  * lnc_pcg_net.txt
-  >LncRNA-PCG associations from the NPInter dataset
-  * lnc_pcg_net.csv
-  >LncRNA-PCG associations in which lncRNAs and PCGs have multi-omics features
-  * pcg_feat.csv
-  >Multi-omics features of  protein-coding genes
-  * pcg_name.txt
-  >Names of protein-coding genes in pcg_feat.csv
-  * process.R
-  >Process lnc_pcg_net.txt to lnc_pcg_net.csv
+  > Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Results
 This directory shows the output of the model
 ### 1: This directory is used to store the experimental results of the LncRNA2Target dataset.
-  * train_rec_pre.txt
-  * train_perform.txt
+  * train_rec_pre.txt 
+  > Changes in recall and precision on the training set.
+  * train_perform.txt > Model performance on the training set
   * train_fpr_tpr.txt
   * test_rec_pre.txt
   * test_perform.txt
