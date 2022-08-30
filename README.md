@@ -28,8 +28,7 @@ Before using the GAE-LGA model, users first need to install the following enviro
   >It is used to define the functions that need to be used in the model.
 
 ## Usage
-Here, we provide the usage of GAE-LGA on three datasets.
-**Note: Go to the /GAE-LGA/Code/ directory before using this model.**
+Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LGA/Code/ directory before using this model.
 ### Usage on LncRNA2Target dataset
   * If you are using CPU environment, please run the following python command：```python main_cpu_1.py```
   * If you are using GPU environment, please run the following python command：```python main_gpu_1.py```
