@@ -7,6 +7,7 @@ Before using GAE-LGA, users first need to install the following environments on 
   * PyTrorch 1.9.1
   * NumPy 1.19.2
   * scikit-learn 0.24.1
+This model is tested in the conda environment. It is also recommended that you use this method to test the program. Of course, you can also execute the program in the way you are used to.
 
 ## Code
 This directory stores the python code of the model
