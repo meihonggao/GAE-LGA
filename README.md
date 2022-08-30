@@ -1,4 +1,4 @@
-# GAE-LGA: Integration of multi-omics data with graph autoencoder to identify lncRNA-PCG associations
+# GAE-LGA: Integration of multi-omics data with graph autoencoders to identify lncRNA-PCG associations
 
 ## Requirements
 Before using GAE-LGA, users first need to install the following environments on their computers：
