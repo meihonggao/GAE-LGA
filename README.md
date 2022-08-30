@@ -93,9 +93,9 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
   >Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Results
- * 1    #Experimental results of Dataset1
- * 2    #Experimental results of Dataset2
- * 3    #Experimental results of Dataset3
+ * 1    Experimental results on the LncRNA2Target dataset
+ * 2    Experimental results on the LncTarD dataset
+ * 3    Experimental results on the NPInter dataset
 
 
 
