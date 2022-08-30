@@ -112,11 +112,11 @@ This directory shows the output of the model
   * test_rec_pre.txt
   > Changes in recall and precision on the test set.
   * test_perform.txt
-  > Model performance on the training set
+  > Model performance on the test set
   * test_fpr_tpr.txt
   > Changes in true positive and false positive rates on the test set.
   * test_new_assoc.txt
-  > New lncRNA-PCG associations identified on the training set.
+  > New lncRNA-PCG associations identified on the test set.
 ### 2: This directory is used to store the experimental results of the LncTarD dataset
   * train_rec_pre.txt 
   > Changes in recall and precision on the training set.
@@ -127,7 +127,7 @@ This directory shows the output of the model
   * test_rec_pre.txt
   > Changes in recall and precision on the test set.
   * test_perform.txt
-  > Model performance on the training set
+  > Model performance on the test set
   * test_fpr_tpr.txt
   > Changes in true positive and false positive rates on the test set.
   * test_new_assoc.txt
@@ -142,7 +142,7 @@ This directory shows the output of the model
   * test_rec_pre.txt
   > Changes in recall and precision on the test set.
   * test_perform.txt
-  > Model performance on the training set
+  > Model performance on the test set
   * test_fpr_tpr.txt
   > Changes in true positive and false positive rates on the test set.
   * test_new_assoc.txt
