@@ -94,8 +94,8 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
 
 ## Results
  * 1    This directory is used to store the experimental results of the LncRNA2Target dataset.
- * 2    This directory is used to store the experimental results on the LncTarD dataset
- * 3    This directory is used to store the experimental results on the NPInter dataset
+ * 2    This directory is used to store the experimental results of the LncTarD dataset
+ * 3    This directory is used to store the experimental results of the NPInter dataset
 
 
 
