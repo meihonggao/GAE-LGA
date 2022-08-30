@@ -102,9 +102,13 @@ This directory stores the datasets used by the model
 
 ## Results
 This directory shows the output of the model
-### 1    
-This directory is used to store the experimental results of the LncRNA2Target dataset.
-### 2    
- >This directory is used to store the experimental results of the LncTarD dataset
-### 3
- >This directory is used to store the experimental results of the NPInter dataset
+### 1---This directory is used to store the experimental results of the LncRNA2Target dataset.
+  * train_rec_pre.txt
+  * train_perform.txt
+  * train_fpr_tpr.txt
+  * test_rec_pre.txt
+  * test_perform.txt
+  * test_new_assoc.txt
+  * test_fpr_tpr.txt
+### 2---This directory is used to store the experimental results of the LncTarD dataset
+### 3---This directory is used to store the experimental results of the NPInter dataset
