@@ -42,6 +42,7 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
 ## Datasets
 ### Dataset1 LncRAN-PCG associations f the LncRNA2Target dataset
   * feat_name.txt   
+  >Attribute names for multi-omics features, consisting of attributes from single nucleotide variants, copy number variants, gene expression data, and DNA methylation data.
   * lnc_feat.csv
   * lnc_feat.txt
   * lnc_name.txt
