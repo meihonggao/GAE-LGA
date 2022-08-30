@@ -1,7 +1,7 @@
 # GAE-LGA: Integration of multi-omics data with graph autoencoder to identify lncRNA-PCG associations
 
 ## Requirements
-Before using the GAE-LGA model, users first need to install the following environment on the computer：
+Before using GAE-LGA, users first need to install the following environments on their computers：
   * Python 3.6.2
   * PyTrorch 1.9.1
   * NumPy 1.19.2
@@ -93,9 +93,9 @@ Here, we provide the usage of GAE-LGA on three datasets. Note: Go to the /GAE-LG
   >Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Results
- * 1    Experimental results on the LncRNA2Target dataset
- * 2    Experimental results on the LncTarD dataset
- * 3    Experimental results on the NPInter dataset
+ * 1    This directory is used to store the experimental results of the LncRNA2Target dataset.
+ * 2    This directory is used to store the experimental results on the LncTarD dataset
+ * 3    This directory is used to store the experimental results on the NPInter dataset
 
 
 
