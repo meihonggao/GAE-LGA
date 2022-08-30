@@ -1,5 +1,5 @@
 # GAE-LGA: Integration of multi-omics data with graph autoencoders to identify lncRNA-PCG associations
-> Contact: meihonggao@mail.nwpu.edu.cn
+> If you have any questions in using the program, please feel free to contact us by email: meihonggao@mail.nwpu.edu.cn.
 
 ## Requirements
 Before using GAE-LGA, users first need to install the following environments on their computers：
