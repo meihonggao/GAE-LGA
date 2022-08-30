@@ -8,15 +8,15 @@ Before using the GAE-LGA model, users first need to install the following enviro
   * scikit-learn 0.24.1
 
 ## Code
-  * **main_cpu_1.py**    *It is used to calculate the running results of the model on the LncRNA2Target dataset (CPU environment)*
-  * **main_gpu_1.py**    It is used to calculate the running results of the model on the LncRNA2Target dataset (GPU environment)
-  * **main_cpu_2.py**    It is used to calculate the running results of the model on the LncTarD dataset (CPU environment)
-  * **main_gpu_2.py**    It is used to calculate the running results of the model on the LncTarD dataset (GPU environment)
-  * **main_cpu_3.py**    It is used to calculate the running results of the model on the NPInter dataset (CPU environment)
-  * **main_gpu_3.py**    It is used to calculate the running results of the model on the NPInter dataset (GPU environment)
-  * **model.py**         It is used to define the encoder and decoder of the model.
-  * **train.py**         It is used to train the parameters of the model.
-  * **utils.py**         It is used to define the function functions that need to be used in the model.
+  * main_cpu_1.py**    >It is used to calculate the running results of the model on the LncRNA2Target dataset (CPU environment)*
+  * main_gpu_1.py**    It is used to calculate the running results of the model on the LncRNA2Target dataset (GPU environment)
+  * main_cpu_2.py**    It is used to calculate the running results of the model on the LncTarD dataset (CPU environment)
+  * main_gpu_2.py**    It is used to calculate the running results of the model on the LncTarD dataset (GPU environment)
+  * main_cpu_3.py**    It is used to calculate the running results of the model on the NPInter dataset (CPU environment)
+  * main_gpu_3.py**    It is used to calculate the running results of the model on the NPInter dataset (GPU environment)
+  * model.py**         It is used to define the encoder and decoder of the model.
+  * train.py**         It is used to train the parameters of the model.
+  * utils.py**         It is used to define the function functions that need to be used in the model.
 
 ## Usage
 Here, we provide procedures for running the GAE-LGA model on three datasets
