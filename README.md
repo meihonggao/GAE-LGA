@@ -25,7 +25,7 @@ Before using the GAE-LGA model, users first need to install the following enviro
   * train.py
   >It is used to train the parameters of the model.
   * utils.py
-  It is used to define the functions that need to be used in the model.
+  >>It is used to define the functions that need to be used in the model.
 
 ## Usage
 Here, we provide the usage of GAE-LGA on three datasets
