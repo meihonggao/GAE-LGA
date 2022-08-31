@@ -2,7 +2,7 @@
 > If you have any questions in using the program, please feel free to contact us by email: meihonggao@mail.nwpu.edu.cn.
 
 ## Requirements
-GAE-LGA is tested in the conda environment. It is recommended that users test the program in this way. Of course, they can also execute the program in a familiar environment. Npte: Before using GAE-LGA, users first need to prepare the following softwares in the execution environment：
+GAE-LGA is tested in the conda environment. It is recommended that users test the program in this way. Of course, they can also execute the program in a familiar environment. Note: Before using GAE-LGA, users first need to prepare the following softwares in the execution environment：
   * Python 3.6.2
   * PyTrorch 1.9.1
   * NumPy 1.19.2
