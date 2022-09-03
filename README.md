@@ -103,6 +103,8 @@ This directory stores the datasets used by the model
 
 ## Multiomics
 ### SNV: This directory is used to store code for preprocessing SNV data
+  * ./SNV/Clean/process.R
+  > Obtain SNV feature of lncRNA and PCG
 ### CNV：This directory is used to store code for preprocessing CNV data
 ### TP: This directory is used to store code for preprocessing TP data
 ### Methylation: This directory is used to store code for preprocessing DNA methylation data
