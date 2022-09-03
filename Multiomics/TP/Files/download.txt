@@ -1,0 +1,1 @@
+gdc-client download -m  gdc_manifest.2022-01-17.txt

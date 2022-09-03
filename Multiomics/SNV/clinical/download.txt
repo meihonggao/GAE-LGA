@@ -1,0 +1,1 @@
+gdc-client download -m  E:/LncRNA3/TCGA/SNV/gdc_manifest_20220113_063719.txt
