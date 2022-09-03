@@ -103,12 +103,20 @@ This directory stores the datasets used by the model
 
 ## Multiomics
 ### SNV: This directory is used to store code for preprocessing SNV data
-  * ./SNV/Clean/process.R
+  * ./Multiomics/SNV/Clean/process.R
   > Obtain SNV feature of lncRNA and PCG
 ### CNV：This directory is used to store code for preprocessing CNV data
+  * ./Multiomics/CNV/Clean/annotation.R
+  > Obtain CNV feature of lncRNA and PCG
 ### TP: This directory is used to store code for preprocessing TP data
+  * ./Multiomics/TP/Clean/process.R
+  > Obtain TP feature of lncRNA and PCG
 ### Methylation: This directory is used to store code for preprocessing DNA methylation data
+  * ./Multiomics/Methylation/Clean/process.R
+  > Obtain DNA Methylation feature of lncRNA and PCG
 ### Total: This directory is used to store code for merging omics data
+  * ./Multiomics/Total/process.R
+  > Obtain multi-omics feature of lncRNA and PCG
 
 ## Results
 This directory shows the output of the model
