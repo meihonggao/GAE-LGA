@@ -102,10 +102,10 @@ This directory stores the datasets used by the model
   > Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
 ## Multiomics
-### SNV: This directory is used to store preprocessing code for SNV data
-### CNV：This directory is used to store preprocessing code for CNV data
-### TP: This directory is used to store preprocessing code for TP data
-### Methylation: This directory is used to store preprocessing code for DNA methylation data
+### SNV: This directory is used to store code for preprocessing SNV data
+### CNV：This directory is used to store code for preprocessing CNV data
+### TP: This directory is used to store code for preprocessing TP data
+### Methylation: This directory is used to store code for preprocessing DNA methylation data
 ### Total: This directory is used to store code for merging omics data
 
 ## Results
