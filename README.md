@@ -101,6 +101,13 @@ This directory stores the datasets used by the model
   * process.R
   > Process lnc_pcg_net.txt to lnc_pcg_net.csv
 
+## Multiomics
+###SNV: This directory is used to store preprocessing code for SNV data
+###CNV：This directory is used to store preprocessing code for CNV data
+###TP: This directory is used to store preprocessing code for TP data
+###Methylation: This directory is used to store preprocessing code for DNA methylation data
+###Total: This directory is used to store code for merging omics data
+
 ## Results
 This directory shows the output of the model
 ### 1: This directory is used to store the experimental results of the NPInter dataset.
